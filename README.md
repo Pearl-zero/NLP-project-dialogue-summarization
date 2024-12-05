@@ -5,6 +5,7 @@
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
 |            [마서연](https://github.com/UpstageAILab)             |            [문기중](https://github.com/UpstageAILab)             |            [이민석](https://github.com/UpstageAILab)             |            [진주영](https://github.com/UpstageAILab)             |            [최수민](https://github.com/UpstageAILab)             |
 |                            kobart MODEL TEST                             |                            DATA CLEAN, MODEL TEST                             |                            T5 MODEL TEST                             |                            EDA, DATA AUG                             |                            bart MODEL TEST                             |
+<br/>
 
 ## 1. Competiton Info
 
@@ -15,6 +16,7 @@
 ### Timeline
 
 - 2024.11.18 10:00 ~ 2024.11.28 19:00
+<br/>
 
 ## 2. Data descrption
 
@@ -65,7 +67,9 @@ googletrans, deepl 사용
 pseudo label
 Ai hub https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=544
 
-## 4. Modeling
+<br/>
+
+## 3. Modeling
 
 ### Model descrition
 #### Kobart
